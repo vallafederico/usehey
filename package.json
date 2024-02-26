@@ -1,0 +1,21 @@
+{
+  "name": "usehey",
+  "version": "0.0.1",
+  "description": "Say hey(), get state. Real tiny state manager (I use) for webgl things (but really anything). It's realy just a small wrapper around mitt, using js I don't fully understand.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "state",
+    "webgl",
+    "creative",
+    "mitt",
+    "events"
+  ],
+  "author": "Federico Valla",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "mitt": "^3.0.1"
+  }
+}
